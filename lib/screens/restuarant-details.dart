@@ -23,6 +23,7 @@ class RestuarantDetails extends StatelessWidget {
               : Container(
                   height: Get.mediaQuery.size.height,
                   width: Get.mediaQuery.size.width,
+                color: Colors.white,
                   child: SingleChildScrollView(
                     padding: const EdgeInsets.all(16),
                     child: Column(
